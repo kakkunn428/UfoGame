@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Ufo game",
+"dataUrl": "第3回アレンジ制作　2D _UFO.data.unityweb",
+"asmCodeUrl": "第3回アレンジ制作　2D _UFO.asm.code.unityweb",
+"asmMemoryUrl": "第3回アレンジ制作　2D _UFO.asm.memory.unityweb",
+"asmFrameworkUrl": "第3回アレンジ制作　2D _UFO.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
